@@ -22,3 +22,9 @@ working with pull requests.
 - CSS
 - JavaScript
 - Git & GitHub
+
+- ## How to Install
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/Oct25-Assignment-2.git
