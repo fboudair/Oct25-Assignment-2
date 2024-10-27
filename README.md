@@ -22,5 +22,3 @@ working with pull requests.
 - CSS
 - JavaScript
 - Git & GitHub
-
-- 
